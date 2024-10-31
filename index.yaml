@@ -3,6 +3,15 @@ entries:
   synapse:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-10-31T21:48:20.547034823Z"
+    description: A Helm chart for deploying Synapse
+    digest: 099a0952f166bec4e533f51c41126eef5fbadde86365b67fe8379986778083c4
+    name: synapse
+    urls:
+    - synapse-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-10-30T14:13:10.113890356Z"
     description: A Helm chart for deploying Synapse
     digest: 2908a215f6f05b3057229ee5b675692cc04492e6e2c3f7cac575eb3af517f8c2
@@ -19,4 +28,4 @@ entries:
     urls:
     - https://github.com/robinson/synapse/releases/download/synapse-1.0.0-alpha5.1/synapse-1.0.0-alpha5.1.tgz
     version: 1.0.0-alpha5.1
-generated: "2024-10-30T14:13:10.11393016Z"
+generated: "2024-10-31T21:48:20.547059991Z"
